@@ -1,3 +1,6 @@
 "Bonjour Alex Sofiane" 
 "Au revoir Adrien"
-"Conflit ZAdrien"
+<<<<<<< HEAD
+=======
+"Conflit ALEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEX
+>>>>>>> 64f5c63c4b4ec7868dc560a19f03d1a0bfa09a65
